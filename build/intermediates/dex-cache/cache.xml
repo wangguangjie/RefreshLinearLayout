@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wangguangjie/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.0.4.aar/49f4dc6214f14d27fd0bc1f3feb7f6aa/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="57c231461bd4ab97550b0b053c159e4f13ffc869">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangguangjie/AndroidStudioProjects/HIT/app/libs/jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5df02f295714ac1b907d507dfea29a5a9f8f69ca">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/pre-dexed/release/jsoup-1.10.3_427779993af4ed09a6de697ee53297c1a0f028d9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c8948370093169696ed1e81565c80f321fe57e6b">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_86a8c32fbc21fe1eb5b4d0064ae1b463aff40d15/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangguangjie/AndroidStudioProjects/HIT/app/libs/httpcore-4.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/pre-dexed/release/httpcore-4.3.3_bec1f41a9cd4704977780e3a1452aa118f1d5e52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangguangjie/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangguangjie/AndroidStudioProjects/HIT/app/libs/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/pre-dexed/release/httpclient-4.3.6_d508f6d982654229bb0fb3e6057b783f592ada0b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_579d50c6ef7c4fe3071d0febcfbba870ddaef9cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangguangjie/AndroidStudioProjects/HIT/app/libs/httpcore-4.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.3.3_bec1f41a9cd4704977780e3a1452aa118f1d5e52/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangguangjie/AndroidStudioProjects/HIT/app/libs/jsoup-1.10.3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5df02f295714ac1b907d507dfea29a5a9f8f69ca">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangguangjie/AndroidStudioProjects/HIT/app/libs/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.3.6_d508f6d982654229bb0fb3e6057b783f592ada0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangguangjie/AndroidStudioProjects/HIT/app/libs/jsoup-1.10.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5df02f295714ac1b907d507dfea29a5a9f8f69ca">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.10.3_427779993af4ed09a6de697ee53297c1a0f028d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangguangjie/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangguangjie/AndroidStudioProjects/HIT/app/libs/httpcore-4.3.3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangguangjie/AndroidStudioProjects/HIT/app/libs/httpclient-4.3.6.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="/Users/wangguangjie/AndroidStudioProjects/HIT/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+
+</items>
