@@ -1,3 +1,4 @@
 # RefreshLinearLayout
 我自己开发的下拉刷新
-基于LinearLayout开发，欢迎进行修改与改进！
+基于LinearLayout开发，是以一款我开发的获取网页信息的应用来使用和测试此自定义View
+欢迎进行修改与改进！
